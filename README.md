@@ -29,8 +29,8 @@ Efter denna vecka ska du:
 ### Läsning
 
   * [Server Components vs. Client Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
-  * [Adding Interactivity](https://www.google.com/search?q=https://nextjs.org/docs/app/building-your-application/rendering/client-components%23adding-interactivity)
-  * [What are React Hooks?](https://www.google.com/search?q=https://react.dev/blog/2018/11/19/introducing-hooks)
+  * [Adding Interactivity]
+  * [What are React Hooks?]
 
 -----
 
