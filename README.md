@@ -2,7 +2,7 @@
 
 Övergripande planering för veckan
 
-##### Next.js/React, vecka 3 av 5 (Projektstart)
+##### Next.js/React, vecka 3 av 5
 
 ## 🎯 Mål för veckan
 
