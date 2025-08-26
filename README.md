@@ -25,8 +25,6 @@ Efter denna vecka ska du:
 
 ### YouTube
 
-  * [Next.js 14: Server Components vs Client Components](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DwXhL3oG-7Ww)
-  * [How to Handle Clicks in Next.js 14](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DsI91F_4-08A)
 
 ### Läsning
 
