@@ -24,7 +24,8 @@ Efter denna vecka ska du:
   * [Next.js 14: Foundations (Pluralsight)](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents) - Fortsätt med Data Fetching och interaktivitet.
 
 ### YouTube
-
+* [Server Components vs. Client Components](https://www.youtube.com/watch?v=2rk0WpbyxuI)
+* [How to handle Events in Next.js](https://www.youtube.com/watch?v=r10gzL3vo0s)
 
 ### Läsning
 
