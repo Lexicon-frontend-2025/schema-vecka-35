@@ -39,7 +39,7 @@ Efter denna vecka ska du:
 ## 🛠️ Övningar
 
 Fokus ligger på att bygga projektet\! Använd gärna tutorialsen från förra veckan för inspiration om hur du kan bygga upp dina komponenter och din datahämtning, men försök att lösa problem utifrån dina egna kunskaper först.
-[Pokédex-övningen][https://github.com/Lexicon-frontend-2025/nextjs_uppgift-pokedex]
+* [Pokédex-övningen](https://github.com/Lexicon-frontend-2025/nextjs_uppgift-pokedex)
 
 -----
 
