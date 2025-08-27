@@ -24,13 +24,14 @@ Efter denna vecka ska du:
   * [Next.js 14: Foundations (Pluralsight)](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents) - Fortsätt med Data Fetching och interaktivitet.
 
 ### YouTube
+* [Next.js CSR vs SSR vs SSG vs ISR and now PPR! (för er som vill veta mer om alla konstiga förkortningar)](https://www.youtube.com/watch?v=S5tjBqzs31w)
 * [Server Components vs. Client Components](https://www.youtube.com/watch?v=2rk0WpbyxuI)
 * [How to handle Events in Next.js](https://www.youtube.com/watch?v=r10gzL3vo0s)
 
 ### Läsning
-
-  * [Server Components vs. Client Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
-  * [Adding Interactivity](https://nextjs.org/learn/react-foundations/updating-state)
+  * Viktig! - [Server Components vs. Client Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
+  * [Adding Search and Pagination (Next.js)](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
+  * [Adding Interactivity (i react)](https://nextjs.org/learn/react-foundations/updating-state)
   * [What are React Hooks?](https://react.dev/reference/react/hooks)
 
 -----
